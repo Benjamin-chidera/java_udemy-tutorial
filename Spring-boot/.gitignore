@@ -1,0 +1,5 @@
+# OpenPost extension data
+.openpost/
+
+# macOS
+.DS_Store
